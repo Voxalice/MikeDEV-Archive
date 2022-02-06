@@ -73,5 +73,8 @@ Some project files are from the Meower Public Archive.
 https://github.com/Melt2002/Meower-Public-Archive/
 Namely, the Meower GUI Previews.
 
+Extra projects found through other methods:
+Thank you! [200+ Followers!]
+
 CherryOS was first on MikeDEV's project list before he unshared
 all of them.
