@@ -73,6 +73,16 @@ Some project files are from the Meower Public Archive.
 https://github.com/Melt2002/Meower-Public-Archive/
 Namely, the Meower GUI Previews.
 
+Some projects were found through
+https://scratch.mit.edu/projects/499690766/.
+
+These are working titles, because the originals have been deleted:
+Real OS Ultimate Edition
+Real OS Professonal Edition
+Rvias Final v1.0.7
+Untitled (Gamester OS beta)
+Untitled (Gamester OS beta 2)
+
 Extra projects found through other methods:
 Thank you! [200+ Followers!]
 Scratch's ToonTown Online
