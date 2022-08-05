@@ -89,5 +89,9 @@ Extra projects found through other methods:
 Thank you! [200+ Followers!]
 Scratch's ToonTown Online
 
+MikeDEV has recently shared an archive of SB-3 (not the preview).
+sb3-last-known-good.sb3 was found through that archive.
+It requires Cloudlink B2.3.
+
 CherryOS was first on MikeDEV's project list before he unshared
 all of them.
